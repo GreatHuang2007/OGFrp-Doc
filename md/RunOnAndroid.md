@@ -1,4 +1,4 @@
-# 在Android上使用OGFrp
+# 在Android上运行OGFrp
 
 ## I.引言
 
