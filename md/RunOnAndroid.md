@@ -31,7 +31,7 @@
 
 #### 3.1.对于已root设备
 
-若您的Android设备已root，那么您可以参考我们提供的[在Linux发行版上OGFrp.Linux的方案](https://github.com/OldGodShen/OGFrp/blob/master/github/UseLinux.md#ogfrplinux%E4%BD%BF%E7%94%A8%E5%B8%AE%E5%8A%A9)。
+若您的Android设备已root，那么您可以参考我们提供的[在Linux发行版上OGFrp.Linux的方案](https://docs.ogfrp.cn/?url=md/UseLinux.md)。
 
 #### 3.2.对于未root设备
 
@@ -58,7 +58,7 @@
 
 ## III.开启frp之旅
 
-参见https://github.com/OldGodShen/OGFrp/blob/master/github/UseLinux.md#ogfrplinux%E4%BD%BF%E7%94%A8%E5%B8%AE%E5%8A%A9
+参见这篇[文章](https://docs.ogfrp.cn/?url=md/UseLinux.md)
 
 ---
 
