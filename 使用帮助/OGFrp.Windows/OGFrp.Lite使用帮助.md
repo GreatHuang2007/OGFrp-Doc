@@ -1,7 +1,7 @@
 # OGFrp.Lite使用帮助
 
 ## I.安装
-不同于OGFrp.Lite的繁琐安装过程，OGFrp.Lite只需要解压即可。
+不同于OGFrp.Linux的繁琐安装过程，OGFrp.Lite只需要解压即可。
 
 在解压完成之后，双击打开OGFrp.Lite.exe。
 
